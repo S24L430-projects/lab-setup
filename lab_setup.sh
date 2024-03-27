@@ -3,7 +3,7 @@
 # Setup lab
 #
 SEAT=$1
-TA=l430-ta2
+TA=$2
 open https://github.com/login?login=$TA
 open https://my.cloudmanager.adobe.com/
 open https://bit.ly/l430-seats
